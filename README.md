@@ -128,7 +128,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ice-bear.git
+git clone https://github.com/holasoymalva/ice-bear.git
 
 # Install dependencies
 npm install
