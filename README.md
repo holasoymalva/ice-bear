@@ -1,4 +1,4 @@
-# Ice Bear
+# ❄️ Ice Bear
 
 A powerful, Streamlit-inspired library for building data applications in Node.js. Ice Bear makes it easy to create beautiful, interactive data dashboards and applications with minimal code.
 
